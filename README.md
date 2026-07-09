@@ -95,6 +95,14 @@ Tracks income and expenses with category-wise breakdowns, an interactive dashboa
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NiranjanSaravanakumar&theme=algolia&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
 ## 📫 Get In Touch
 
 📧 **Email:** [nickniranjan2929@gmail.com](mailto:nickniranjan2929@gmail.com)
