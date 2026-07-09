@@ -55,7 +55,7 @@
 
 Turns any public GitHub repo into an onboarding hub: paste a repo URL and get an AI-generated architecture overview, folder/component breakdowns, a setup guide, and multi-turn chat grounded in the actual codebase.
 
-**[View Repo →](#)** &nbsp;|&nbsp; **[Live Demo →](#)**
+**[View Repo →](#)**
 
 ---
 
@@ -64,7 +64,7 @@ Turns any public GitHub repo into an onboarding hub: paste a repo URL and get an
 
 Upload a resume and get an ATS compatibility score, rewritten bullet points, a radar-chart skill-gap analysis, tailored interview questions, and a personalized improvement roadmap.
 
-**[View Repo →](#)** &nbsp;|&nbsp; **[Live Demo →](#)**
+**[View Repo →](#)**
 
 ---
 
@@ -73,7 +73,7 @@ Upload a resume and get an ATS compatibility score, rewritten bullet points, a r
 
 Cleans, validates, and transforms messy CSV datasets, then generates data-quality reports and lets users download the processed output. Covered by an automated pytest suite running in a GitHub Actions CI pipeline.
 
-**[View Repo →](#)** &nbsp;|&nbsp; **[Live Demo →](#)**
+**[View Repo →](#)**
 
 ---
 
@@ -82,7 +82,7 @@ Cleans, validates, and transforms messy CSV datasets, then generates data-qualit
 
 Logistic regression model trained on the 1.6M-tweet Sentiment140 dataset, reaching **~86% test accuracy**. TF-IDF vectorization, containerized with Docker, and unit-tested with pytest.
 
-**[View Repo →](#)** &nbsp;|&nbsp; **[Live Demo →](#)**
+**[View Repo →](#)**
 
 ---
 
@@ -91,24 +91,7 @@ Logistic regression model trained on the 1.6M-tweet Sentiment140 dataset, reachi
 
 Tracks income and expenses with category-wise breakdowns, an interactive dashboard, monthly summaries, and search/filtering — backed by a secured Node/Express API.
 
-**[View Repo →](#)** &nbsp;|&nbsp; **[Live Demo →](#)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NiranjanSaravanakumar&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanSaravanakumar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanSaravanakumar&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NiranjanSaravanakumar&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
+**[View Repo →](#)**
 
 ---
 
