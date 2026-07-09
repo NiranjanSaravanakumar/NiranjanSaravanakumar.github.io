@@ -1,271 +1,123 @@
 # 👋 Hi, I'm Niranjan Saravanakumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+with+React%2C+Python+%26+LLMs" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://iamniranjan.me">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C896?style=for-the-badge&logo=safari&logoColor=white">
   </a>
   <a href="https://github.com/NiranjanSaravanakumar">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/niranjansaravanakumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:nickniranjan2929@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
----
-
-# 🚀 About Me
-
-🎓 Computer Science Student
-
-💻 Passionate Full Stack Developer
-
-🤖 Interested in AI, Machine Learning & Automation
-
-🧪 Software Testing Intern
-
-📚 Preparing for Software Development Roles
-
-🌱 Constantly learning and building real-world applications
-
----
-
-# 🌐 Portfolio
-
-## 👉 https://iamniranjan.me
-
-Explore my portfolio to view:
-
-- Projects
-- Experience
-- Skills
-- Resume
-- Contact Information
-
----
-
-# 💼 Tech Stack
-
-## Languages
-
-- Java
-- Python
-- JavaScript
-- TypeScript
-- SQL
-- HTML
-- CSS
-
----
-
-## Frontend
-
-- React
-- Next.js
-- Tailwind CSS
-- Bootstrap
-
----
-
-## Backend
-
-- Node.js
-- Express.js
-- Flask
-- REST APIs
-
----
-
-## Database
-
-- MongoDB
-- MySQL
-- PostgreSQL
-
----
-
-## Tools
-
-- Git
-- GitHub
-- VS Code
-- Azure DevOps
-- Postman
-- Docker
-
----
-
-## AI & Machine Learning
-
-- TensorFlow
-- Scikit-Learn
-- Pandas
-- NumPy
-- Gemini API
-- OpenAI API
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 CodeCompass
-
-### AI Codebase Onboarding & Chat Tool
-
-**Tech Stack:** FastAPI • Python • Gemini 2.5 Flash • GitHub API • React 19 • Vite
-
-An AI-powered developer onboarding platform that transforms any public GitHub repository into an easy-to-understand documentation hub.
-
-### Features
-
-- 📂 Paste any public GitHub repository URL
-- 🤖 AI-generated architecture overview
-- 🏗️ Component and folder explanations
-- ⚡ Installation and setup guide
-- 💬 Multi-turn AI chat with repository context
-- 🔍 API and dependency explanations
-- 📖 Beginner-friendly onboarding documentation
-
----
-
-## 📜 AI Resume Analyzer
-
-### Brutally Honest AI Resume Analyzer
-
-**Tech Stack:** React • Vite • Flask • Gemini AI • SQLite • Python
-
-An intelligent resume analysis platform that provides detailed AI feedback and ATS optimization.
-
-### Features
-
-- 📄 Resume upload
-- 🎯 ATS compatibility score
-- ✍️ Bullet point rewrites
-- 📊 Radar chart visualization
-- 💼 Skill gap analysis
-- 🎤 Interview preparation questions
-- 🗺️ Personalized improvement roadmap
-
----
-
-## 🧹 DataRefinery
-
-### CSV ETL Pipeline & Quality Report Generator
-
-**Tech Stack:** Python • Flask • pytest • GitHub Actions • Jinja2
-
-A complete ETL solution that cleans, validates, transforms, and reports data quality issues from messy CSV datasets.
-
-### Features
-
-- 📂 CSV upload
-- 🧹 Data cleaning
-- ✅ Validation rules
-- 📈 Data quality reports
-- 📥 Download processed datasets
-- ⚙️ Automated testing with pytest
-- 🚀 CI/CD using GitHub Actions
-
----
-
-## 📊 Senti AI
-
-### Binary Sentiment Analyzer — ML Web App
-
-**Tech Stack:** Python • Flask • scikit-learn • NLTK • TF-IDF • Docker • pytest
-
-A machine learning web application trained on **1.6 million tweets (Sentiment140)** that predicts whether user text expresses positive or negative sentiment.
-
-### Features
-
-- 😊 Positive / Negative prediction
-- 🧠 Logistic Regression model
-- 📈 ~86% Test Accuracy
-- 📚 TF-IDF vectorization
-- 🐳 Docker support
-- ✅ Unit testing with pytest
-
----
-
-## 💰 Expense Tracker
-
-### Personal Finance Web Application
-
-**Tech Stack:** React • Node.js • Express • MongoDB • Tailwind CSS
-
-A responsive expense management application designed to simplify personal finance tracking.
-
-### Features
-
-- 💸 Track income & expenses
-- 📂 Category-wise transactions
-- 📊 Interactive dashboard
-- 📅 Monthly summaries
-- 🔎 Search & filtering
-- 📱 Responsive UI
-- 🔒 Secure backend storage
----
-
-# 📊 GitHub Stats
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NiranjanSaravanakumar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanSaravanakumar&theme=tokyonight"/>
-
+  Computer Science student building full-stack and AI-powered products — from ETL pipelines to LLM-driven developer tools.
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 🚀 About Me
+
+- 🎓 Computer Science student, currently a **Software Testing Intern**
+- 💻 Full-stack developer working across React/Next.js and Python/Node backends
+- 🤖 Building applied AI tools using the Gemini and OpenAI APIs
+- 🌱 Actively shipping projects — see below for what I've built recently
+
+## 💼 Tech Stack
+
+**Languages:** Java · Python · JavaScript · TypeScript · SQL · HTML · CSS
+
+**Frontend:** React · Next.js · Tailwind CSS · Bootstrap
+
+**Backend:** Node.js · Express.js · Flask · REST APIs
+
+**Database:** MongoDB · MySQL · PostgreSQL
+
+**AI / ML:** TensorFlow · Scikit-Learn · Pandas · NumPy · Gemini API · OpenAI API
+
+**Tools:** Git · GitHub · VS Code · Azure DevOps · Postman · Docker
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [CodeCompass](#) — AI Codebase Onboarding & Chat Tool
+`FastAPI` `Python` `Gemini 2.5 Flash` `GitHub API` `React 19` `Vite`
+
+Turns any public GitHub repo into an onboarding hub: paste a repo URL and get an AI-generated architecture overview, folder/component breakdowns, a setup guide, and multi-turn chat grounded in the actual codebase.
+
+**[View Repo →](#)** &nbsp;|&nbsp; **[Live Demo →](#)**
+
+---
+
+### 📜 [AI Resume Analyzer](#) — Brutally Honest Resume Feedback
+`React` `Vite` `Flask` `Gemini AI` `SQLite` `Python`
+
+Upload a resume and get an ATS compatibility score, rewritten bullet points, a radar-chart skill-gap analysis, tailored interview questions, and a personalized improvement roadmap.
+
+**[View Repo →](#)** &nbsp;|&nbsp; **[Live Demo →](#)**
+
+---
+
+### 🧹 [DataRefinery](#) — CSV ETL Pipeline & Quality Report Generator
+`Python` `Flask` `pytest` `GitHub Actions` `Jinja2`
+
+Cleans, validates, and transforms messy CSV datasets, then generates data-quality reports and lets users download the processed output. Covered by an automated pytest suite running in a GitHub Actions CI pipeline.
+
+**[View Repo →](#)** &nbsp;|&nbsp; **[Live Demo →](#)**
+
+---
+
+### 📊 [Senti AI](#) — Binary Sentiment Analyzer
+`Python` `Flask` `scikit-learn` `NLTK` `TF-IDF` `Docker` `pytest`
+
+Logistic regression model trained on the 1.6M-tweet Sentiment140 dataset, reaching **~86% test accuracy**. TF-IDF vectorization, containerized with Docker, and unit-tested with pytest.
+
+**[View Repo →](#)** &nbsp;|&nbsp; **[Live Demo →](#)**
+
+---
+
+### 💰 [Expense Tracker](#) — Personal Finance Web App
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+
+Tracks income and expenses with category-wise breakdowns, an interactive dashboard, monthly summaries, and search/filtering — backed by a secured Node/Express API.
+
+**[View Repo →](#)** &nbsp;|&nbsp; **[Live Demo →](#)**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NiranjanSaravanakumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanSaravanakumar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanSaravanakumar&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanSaravanakumar&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NiranjanSaravanakumar&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📫 Get In Touch
 
-<p align="center">
+📧 **Email:** [nickniranjan2929@gmail.com](mailto:nickniranjan2929@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/niranjansaravanakumar](https://www.linkedin.com/in/niranjansaravanakumar/)
+🌐 **Portfolio:** [iamniranjan.me](https://iamniranjan.me)
 
-<img src="https://github-profile-trophy.vercel.app/?username=NiranjanSaravanakumar&theme=algolia&margin-w=15&margin-h=15"/>
+<p align="center"><i>Code. Learn. Build. Repeat.</i></p>
 
-</p>
-
----
-
-# 📫 Connect With Me
-
-🌐 Portfolio
-
-https://iamniranjan.me
-
-GitHub
-
-https://github.com/NiranjanSaravanakumar
-
-LinkedIn
-
-[(Add your LinkedIn URL)](https://www.linkedin.com/in/niranjansaravanakumar/)
-
-Email
-
-nickniranjan2929@gmail.com
-
----
-
-# 💡 Quote
-
-> "Code. Learn. Build. Repeat."
-
----
-
-⭐ If you like my projects, don't forget to Star them!
+<p align="center">⭐ If you find my projects useful, a star means a lot!</p>
