@@ -253,7 +253,7 @@ Tracks income and expenses with category-wise breakdowns, an interactive dashboa
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NiranjanSaravanakumar/NiranjanSaravanakumar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NiranjanSaravanakumar/NiranjanSaravanakumar/output/github-snake-dark.svg" width="100%"/>
 
 </div>
 
