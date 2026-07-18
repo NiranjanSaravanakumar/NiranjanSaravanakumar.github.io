@@ -251,14 +251,20 @@ Tracks income and expenses with category-wise breakdowns, an interactive dashboa
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NiranjanSaravanakumar/NiranjanSaravanakumar/output/github-snake-dark.svg" width="100%"/>
-
-</div>
-
-> *Requires the [snake generator GitHub Action](https://github.com/Platane/snk) enabled on your profile repo.*
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 ---
 
 ## 🎯 Current Focus
