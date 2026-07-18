@@ -199,41 +199,6 @@ Tracks income and expenses with category-wise breakdowns, an interactive dashboa
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| *[Add achievement]* | *[Add details]* |
-| *[Add achievement]* | *[Add details]* |
-
-</div>
-
----
-
-## 📜 Certifications
-
-> *Add badges only for certifications you actually hold — sample groupings below.*
-
-**AWS**
-<br/>
-*[Add certification badge/link]*
-
-**Oracle**
-<br/>
-*[Add certification badge/link]*
-
-**NPTEL**
-<br/>
-*[Add certification badge/link]*
-
-**Cisco**
-<br/>
-*[Add certification badge/link]*
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
